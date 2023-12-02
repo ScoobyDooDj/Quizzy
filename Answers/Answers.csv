@@ -1,6 +1,77 @@
 Question,Answer Choices,Correct Answer
-Do you think having a Quiz generator could help you study better and make better grades in school? (Choose Two),"A. Yes! Where do I download a copy?, B. I might use that to improve my grades, C. No! I am already smart and don't need the help.","A. Yes! Where do I download a copy?, B. I might use that to improve my grades"
-Would you be interested in learning how to code in Python?,"A. Not right now., B. No,I am already learning another programming language., C. I would love to learn Python!",C. I would love to learn Python!
-"If I had a million dollars, What is the first thing I would buy?","A. Lamborgini, B. Mansion, C. Invest in businesses, D. All of the Above",D. All of the Above
-This is enough data for me to learn how to add my own questions?,"T. True,  F. False",F. False
-What are the Primary Colors? (Pick three),"A. Purple, B.Red, C.Blue, D. Orange, E. Brown, F. Yellow","B. Red, C. Blue, F. Yellow"
+The Help button has the menu.,"T. True, F. False",T. True
+Total Questions Loads from your C:\Quizzy\Answers.csv file. Change the questions and answers to fit your study need.,"A. Ok sounds good, B. commas are used between answer choices","A. Ok sounds good, B. commas are used between answer choices"
+Start on Question Number is any number under the total questions.,"A. Starting on question 65 of 66 will only let you answer question 65 and 66., B. Your answers look at the first letter only so that is how you can have any answer.","A. Starting on question 65 of 66 will only let you answer question 65 and 66., B. Your answers look at the first letter only so that is how you can have any answer."
+You can set how many questions you want to answer by using:,A. Set Number of Questions,A. Set Number of Questions
+You can change the theme background clicking what button?,"A. Simulations, B. Change Background, C. Help",B. Change Background
+"You can skip a question, and later review it in Review Missed Questions.","T. True, F. False",T. True
+You can Edit Answers by clicking Edit Answers button?,"Y. Yes, N. No",Y. Yes
+The Check Answers can have more than 1 answer. The answers are seperated in the Answer Choices Column by a comma then also a comma in the Correct Answer column if more than 1 answer. Watch out for commas in the normal questions and remove them.,"T. True, F. False",T. True
+Review Missed Questions will show you the missed questions and answers.,"T. True, F. False",T. True
+You can choose to Randomize your Questions adding a Start on Question #1 - last question and click Randomize Questions.,"T. True, F. False",T. True
+What is the main color of Santa's suit?,"A. Red, B. Green, C. Blue, D. Yellow",A. Red
+Which reindeer has a shiny red nose?,"A. Dasher, B. Rudolph, C. Blitzen, D. Vixen",B. Rudolph
+What do people traditionally put on top of a Christmas tree?,"A. Angel, B. Star, C. Santa Claus, D. Snowman",B. Star
+"In the song ""Jingle Bells,"" what type of sleigh is mentioned?","A. Open sleigh, B. Closed sleigh, C. Wooden sleigh, D. Golden sleigh",A. Open sleigh
+What do you traditionally put in a Christmas stocking?,"A. Candy, B. Gifts, C. Coal, D. All of the above",D. All of the above
+"In the song ""Frosty the Snowman,"" what made Frosty come to life?","A. Magic hat, B. Magic scarf, C. Magic gloves, D. Magic boots",A. Magic hat
+Which country is credited with the tradition of exchanging Christmas gifts?,"A. Germany, B. United States, C. Italy, D. England",B. Germany
+"""The Nutcracker"" is a famous Christmas ballet.","T. True, F. False",T. True
+"What is the name of the Grinch's dog in ""How the Grinch Stole Christmas""?","A. Max, B. Spot, C. Buddy, D. Rocky",A. Max
+"Which Christmas beverage is also known as ""milk punch""?","A. Eggnog, B. Hot Chocolate, C. Mulled Wine, D. Apple Cider",A. Eggnog
+Christmas is celebrated on December 25th in every country.,"T. True, F. False",F. False
+"In the movie ""Home Alone,"" where are the McCallisters going on vacation when they leave Kevin behind?","A. Paris, B. London, C. Rome, D. New York City",A. Paris
+What is the main ingredient in a traditional Christmas pudding?,"A. Raisins, B. Plum, C. Fig, D. Currants",B. Plum
+"""A Christmas Carol"" was written by Charles Dickens.","T. True, F. False",T. True
+"In the song ""Deck the Halls,"" what is repeated after the line ""Fa-la-la-la-la, la-la-la-la""?","A. Tis the season, B. Follow me, C. Ring the bells, D. Strike the harp",A. Tis the season
+"What is the name of the boy who befriends a snowman in the animated short film ""The Snowman""?","A. Billy, B. Bobby, C. Benny, D. Barry",A. Billy
+The poinsettia is a traditional Christmas flower.,"T. True, F. False",T. True
+Which saint is associated with the tradition of hanging stockings by the fireplace?,"A. Saint Nicholas, B. Saint Patrick, C. Saint Augustine, D. Saint Theresa",A. Saint Nicholas
+"In the song ""Rudolph the Red-Nosed Reindeer,"" what is Rudolph's special ability?","A. Flying, B. Singing, C. Glowing nose, D. Speed",C. Glowing nose
+The Christmas tree tradition originated in Germany.,"T. True, F. False",T. True
+What is the main protein in a traditional British Christmas dinner?,"A. Turkey, B. Ham, C. Goose, D. Lamb",A. Turkey
+"In the movie ""Elf,"" what is Buddy's favorite food group?","A. Candy, B. Candy Canes, C. Syrup, D. Spaghetti, E. Bubble Gum","C. Syrup, D. Spaghetti"
+"""Jingle Bells"" was originally a Thanksgiving song.","T. True, F. False",T. True
+"What is the name of Scrooge's deceased business partner in ""A Christmas Carol""?","A. Jacob Marley, B. Ebenezer Scrooge, C. Tiny Tim, D. Bob Cratchit",A. Jacob Marley
+"In the song ""Silent Night,"" what is asked to ""sleep in heavenly peace""?","A. Angels, B. Children, C. Shepherds, D. All",A. All
+"In Iceland, there are 13 Santa Clauses who come to town.","T. True, F. False",T. True
+What is the traditional Christmas color of the plant mistletoe?,"A. White, B. Red, C. Green, D. Yellow",C. Green
+"In the movie ""The Polar Express,"" what is the first gift of Christmas?","A. Bell, B. Hot Chocolate, C. Toy Train, D. Santa's Hat",A. Bell
+The custom of putting up a Christmas tree originated in France.,"T. True, F. False",F. False
+"What is the name of the boy in the movie ""The Polar Express""?","A. Billy, B. Tom, C. Chris, D. Joe",C. Chris
+"In the song ""Winter Wonderland,"" what do we pretend the snowman is?","A. Parson Brown, B. Jolly Old Elf, C. Frosty's Friend, D. Santa's Helper",A. Parson Brown
+The first artificial Christmas tree was made of feathers.,"T. True, F. False",T. True
+"What is the main ingredient in the traditional Italian Christmas dish ""Panettone""?","A. Chocolate, B. Candied fruit, C. Nuts, D. Raisins",B. Candied fruit
+"In the song ""I Saw Mommy Kissing Santa Claus,"" where does the narrator see mommy kissing Santa Claus?","A. Living room, B. Bedroom, C. Kitchen, D. Front porch",B. Bedroom
+"The name ""Santa Claus"" is derived from the Dutch name ""Sinterklaas.","T. True, F. False",T. True
+"In the song ""Jingle Bell Rock,"" what time is it and what is the time to rock?","A. Midnight, B. Dinnertime, C. Christmas time, D. Showtime",B. Dinnertime
+"In the United Kingdom, Christmas Day is celebrated on December 25th and Boxing Day on December 26th.","T. True, F. False",T. True
+"What is the name of the character voiced by Tom Hanks in ""The Polar Express""?","A. Conductor, B. Hero Boy, C. Santa Claus, D. Hobo",A. Conductor
+"In the poem ""A Visit from St. Nicholas"" (commonly known as ""Twas the Night Before Christmas""), what does St. Nicholas have on his back?","A. Bag of toys, B. Sack of presents, C. Bundle of joy, D. Gift-wrapped boxes",B. Sack of presents 
+"Christmas Island, an Australian territory, is named for the Christmas holiday.","T. True, F. False",T. True
+What is the traditional Christmas dessert in England?,"A. Mince pie, B. Yule log, C. Fruitcake, D. Pudding",A. Mince pie
+"In the movie ""A Charlie Brown Christmas,"" what does Charlie Brown's little sister Sally want for Christmas?","A. A doll, B. A bicycle, C. Real estate, D. Money",A. Real estate
+"In Italy, children receive gifts from La Befana, a friendly witch.","T. True, F. False",T. True
+"Which Christmas carol includes the lyric, ""O tidings of comfort and joy""?","A. Hark! The Herald Angels Sing, B. Joy to the World, C. Angels We Have Heard on High, D. God Rest Ye Merry Gentlemen",D. God Rest Ye Merry Gentlemen
+"""Auld Lang Syne"" is traditionally sung on New Year's Eve.","T. True, F. False",T. True
+What popular Christmas plant is known for its red and green leaves?,"A. Poinsettia, B. Holly, C. Mistletoe, D. Christmas Cactus",A. Poinsettia
+"In the movie ""How the Grinch Stole Christmas,"" what does the Grinch use as a substitute for reindeer?","A. Dogs, B. Cats, C. Rats, D. Eagles",B. Dogs
+The tradition of Christmas stockings originated in Italy.,"T. True, F. False",F. False
+"What is the name of the boy who receives a BB gun for Christmas in the film ""A Christmas Story""?","A. Ralphie, B. Randy, C. Robbie, D. Ricky",A. Ralphie
+"In the song ""Do You Hear What I Hear?"" what is the ""night wind"" said to say?","A. Peace on Earth, B. Joy to the World, C. Goodwill to men, D. Silent night",A. Peace on Earth
+"""Feliz Navidad"" means ""Merry Christmas"" in Italian.","T. True, F. False",F. False
+"What is the name of the character voiced by Jim Carrey in the film adaptation of ""How the Grinch Stole Christmas""?","A. Max, B. Lou, C. Carl, D. Grinch",D. Grinch
+"In the traditional song ""The Twelve Days of Christmas,"" what does my true love give to me on the second day?","A. Two Turtle Doves, B. Two French Hens, C. Two Calling Birds, D. Two Golden Rings",B. Two Turtle Doves
+Christmas was illegal in England between 1647 and 1660.,"T. True, F. False",T. True
+"What is the main ingredient in the traditional Mexican Christmas beverage ""atole""?","A. Chocolate, B. Corn, C. Rice, D. Coffee",B. Corn
+"In the movie ""National Lampoon's Christmas Vacation,"" what does Clark Griswold receive as a Christmas bonus?","A. Jelly of the Month Club membership, B. Cash, C. Gift card, D. Fruitcake",A. Jelly of the Month Club membership
+"""The 12 Days of Christmas"" actually begin on December 25th and end on January 5th.","T. True, F. False",T. True
+What is the name of the youngest reindeer in Santa's sleigh?,"A. Rudolph, B. Blitzen, C. Cupid, D. Vixen",A. Rudolph
+"In the song ""We Wish You a Merry Christmas,"" what do the carolers demand before leaving?","A. Figgy pudding, B. Fruitcake, C. Candy canes, D. Eggnog",A. Figgy pudding
+"The famous poem ""The Night Before Christmas"" was written by Edgar Allan Poe.","T. True, F. False",F. False
+What is the Italian word for Christmas?,"A. Natale, B. Buon Natale, C. Felice Natale, D. Buonanno",A. Natale
+"In the movie ""Elf,"" what is Buddy's biological father's job?","A. Publisher, B. Dentist, C. Chef, D. Businessman",A. Publisher
+The Rockefeller Center Christmas Tree in New York City is always a donated tree.,"T. True, F. False",T. True
+"What is the name of the snowman in the 1969 animated TV special ""Frosty the Snowman""?","A. Frosty, B. Chilly, C. Snowy, D. Icy",A. Frosty
+"In the song ""Silver Bells,"" what is ""it's Christmas time in the city"" referring to?","A. Shopping, B. Caroling, C. Snowfall, D. Decorations",A. Shopping
+"Christmas Island, an Australian territory, is located in the Indian Ocean.","T. True, F. False",T. True
