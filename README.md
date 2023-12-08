@@ -4,7 +4,7 @@ Create a new Python project in C:\Quizzy
 Copy these folders and files:
 Background
 Answers
-Quizzy.py
+RussellJoshuaFinalProject.py Rename to Quizzy.py if you need to.
 Help
 Simulations
 You will have to type Pip install pandas so that the quiz can run and read the  .csv file.
